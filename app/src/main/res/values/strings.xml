@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sabstagram</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">P1O2J2VgmnqrVaCbAmLAcACme4umExqks3BHjlxR</string>
+    <string name="back4app_client_key">LBCOinhJDFT2C2Wz9hzKpAiSXMEf5vLj9NxGCMbR</string>
+</resources>
