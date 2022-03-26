@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] User sees app icon in home screen and styled bottom navigation view
+- [X/2] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
 - [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
@@ -27,14 +27,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/qeu5qAs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+This app was pretty tedious and lengthy in its implementation. I had trouble connecting with the Parse database at first, but after some trial and error, I was finally able to connect. Managing all the login, logout, and posting to the database was something I struggled a bit to understand, but overall the videos and some Googling helped. 
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
