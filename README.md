@@ -2,13 +2,10 @@
 
 Sabstagram is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: 6 hours spent in total
+Time spent: 11 hours spent in total
 ## Part 2
-# Project 3 - *Name of App Here*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
-
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
@@ -47,7 +44,7 @@ Fragments was a new concept this unit and did present a bit of a challenge when 
 
 
 ## Part 1
-
+Time spent: 6 hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
